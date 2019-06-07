@@ -28,8 +28,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Live Streaming</title>
-    <link href="//vjs.zencdn.net/5.8/video-js.min.css" rel="stylesheet">
-    <script src="//vjs.zencdn.net/5.8/video.min.js"></script>
+    <link href="rtsp://streaming.mytv.dialog.lk:554/livefeed/CHANNELEYE_HVGA.sdp?msd=94764263311&amp;pi=PITEM_8&amp;pd=PDATA_15&amp;sn=ChannelEye&amp;b=3G&amp;os=WAP&amp;cn=&amp;m=Android4.4.2;Mobile;rv:66.0)Gecko&amp;mcc=&amp;mnc=&amp;v=1.14&amp;lac=&amp;cid=&amp;op=Dialog&amp;st=1&amp;sid=&amp;pid=&amp;stamp=3768887136&amp;sign=a4c5bcbc36318d063215883ea6ae2e57" rel="stylesheet">
+    <script src="rtsp://streaming.mytv.dialog.lk:554/livefeed/CHANNELEYE_HVGA.sdp?msd=94764263311&amp;pi=PITEM_8&amp;pd=PDATA_15&amp;sn=ChannelEye&amp;b=3G&amp;os=WAP&amp;cn=&amp;m=Android4.4.2;Mobile;rv:66.0)Gecko&amp;mcc=&amp;mnc=&amp;v=1.14&amp;lac=&amp;cid=&amp;op=Dialog&amp;st=1&amp;sid=&amp;pid=&amp;stamp=3768887136&amp;sign=a4c5bcbc36318d063215883ea6ae2e57"></script>
 </head>
 <body>
 <video id="player" class="video-js vjs-default-skin" height="360" width="640" controls preload="none">
