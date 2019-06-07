@@ -12,3 +12,10 @@
 <br />
 <a href="rtsp://streaming.mytv.dialog.lk:554/livefeed/CHANNELEYE_HVGA.sdp?msd=94764263311&amp;pi=PITEM_8&amp;pd=PDATA_15&amp;sn=ChannelEye&amp;b=3G&amp;os=WAP&amp;cn=&amp;m=Android4.4.2;Mobile;rv:66.0)Gecko&amp;mcc=&amp;mnc=&amp;v=1.14&amp;lac=&amp;cid=&amp;op=Dialog&amp;st=1&amp;sid=&amp;pid=&amp;stamp=3768887136&amp;sign=a4c5bcbc36318d063215883ea6ae2e57" target="_blank"><span style="font-family: &quot;verdana&quot; , sans-serif; font-size: x-large;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; චැනල් අයි..😍😍(match එක)</span></a>
 <br />
+
+
+
+<video width="320" height="240" controls>
+  <source src="rtsp://streaming.mytv.dialog.lk:554/livefeed/CHANNELEYE_HVGA.sdp?msd=94764263311&amp;pi=PITEM_8&amp;pd=PDATA_15&amp;sn=ChannelEye&amp;b=3G&amp;os=WAP&amp;cn=&amp;m=Android4.4.2;Mobile;rv:66.0)Gecko&amp;mcc=&amp;mnc=&amp;v=1.14&amp;lac=&amp;cid=&amp;op=Dialog&amp;st=1&amp;sid=&amp;pid=&amp;stamp=3768887136&amp;sign=a4c5bcbc36318d063215883ea6ae2e57" type="video/webm">
+  Your browser does not support the video tag.
+</video>
