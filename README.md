@@ -10,7 +10,7 @@
 
 
 <br />
-<a href="rtsp://streaming.mytv.dialog.lk:554/livefeed/CHANNELEYE_HVGA.sdp?msd=94764263311&amp;pi=PITEM_8&amp;pd=PDATA_15&amp;sn=ChannelEye&amp;b=3G&amp;os=WAP&amp;cn=&amp;m=Android4.4.2;Mobile;rv:66.0)Gecko&amp;mcc=&amp;mnc=&amp;v=1.14&amp;lac=&amp;cid=&amp;op=Dialog&amp;st=1&amp;sid=&amp;pid=&amp;stamp=3768887136&amp;sign=a4c5bcbc36318d063215883ea6ae2e57" target="_blank"><span style="font-family: &quot;verdana&quot; , sans-serif; font-size: x-large;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; චැනල් අයි..😍😍(match එක)</span></a>
+<a href="rtsp://streaming.mytv.dialog.lk:554/livefeed/CHANNELEYE_HVGA.sdp?msd=94775182315&pi=PITEM_8&pd=PDATA_15&sn=ChannelEye&b=3G&os=WAP&cn=&m=Android4.4.2;SHV-E250K)AppleWebKit&mcc=&mnc=&v=1.14&lac=&cid=&op=Dialog&st=1&sid=&pid=&stamp=3769599457&sign=632ca91d42a9314fa631d04dfb9067fd" target="_blank"><span style="font-family: &quot;verdana&quot; , sans-serif; font-size: x-large;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; චැනල් අයි..😍😍(match එක)</span></a>
 <br />
 
 
